@@ -1,5 +1,4 @@
-# Aqua.analyst
-# Aqua.analyst
+# Aqua.Analyst
 ## Table of contents
 * [Information](#project-information)
 * [Video](#intro-video)
